@@ -1,1 +1,1 @@
-# cardio-prediction
+# churn-prediction
